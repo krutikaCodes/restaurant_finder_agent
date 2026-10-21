@@ -1,0 +1,14 @@
+name,cuisine,neighborhood,cost_for_two,rating,distance_km,thursday_slots,window_view
+Anatolia Grill,Turkish,Inner Harbor,58,4.6,0.3,18:30;19:30,garden
+Istanbul Corner Cafe,Turkish,Downtown,46,4.1,0.4,19:30;20:00,street
+Aegean Table,Turkish,Mount Vernon,63,4.2,0.8,19:30,garden
+Bosphorus Kitchen,Turkish,Mount Vernon,62,4.4,1.0,19:00;19:30,street
+Sultan's Table,Turkish,Harbor East,96,4.8,1.0,19:30,garden
+Kapadokya Meze House,Turkish,Downtown,54,4.5,0.3,18:00;21:00,garden
+Ephesus Kebab,Turkish,Downtown,38,4.0,0.2,19:30,none
+Galata Bistro,Turkish,Fells Point,55,4.7,1.8,19:30,street
+Konya Kebab & Grill,Turkish,Federal Hill,44,4.5,1.2,19:30,street
+Mykonos Taverna,Greek,Inner Harbor,55,4.3,0.4,19:30,street
+Cedars of Lebanon,Lebanese,Mount Vernon,50,4.4,1.0,19:30,garden
+Little Napoli,Italian,Harbor East,70,4.2,1.0,19:30,none
+Pho Saigon,Vietnamese,Downtown,32,4.0,0.6,19:30,street
